@@ -10,14 +10,23 @@
 </div>
 
 ## Results
-<div style="display: flex; justify-content: space-between; text-align: center;">
-  <div style="margin: 0 10px;">
-    <img src="./result/cat_raw.png" alt="HAT HAT cat" style="width: 200px; height: auto;">
-  </div>
-  <div style="margin: 0 10px;">
-    <img src="./result/HAT_HAT_cat.png" alt="HAT HAT fruit" style="width: 200px; height: auto;">
-  </div>
-  <div style="margin: 0 10px;">
-    <img src="./result/HAT_ControlNet_cat.png" alt="HAT HAT example" style="width: 200px; height: auto;">
-  </div>
+<div align="center">
+  <img width="200" src="./result/cat_raw.png" alt="raw" />&nbsp;&nbsp;&nbsp;
+  <img width="200" src="./result/HAT_HAT_cat.png" alt="HAT_HAT" />&nbsp;&nbsp;&nbsp;
+  <img width="200" src="./result/HAT_ControlNet_cat.png" alt="HAT_HAT_ControlNet" />
 </div>
+
+<div align="center">
+  <img width="200" src="./result/flower_raw.png" alt="raw" />&nbsp;&nbsp;&nbsp;
+  <img width="200" src="./result/HAT_HAT_flower.png" alt="HAT_HAT" />&nbsp;&nbsp;&nbsp;
+  <img width="200" src="./result/HAT_ControlNet_flower.png" alt="HAT_HAT_ControlNet" />
+</div>
+
+<div align="center">
+  <img width="200" src="./result/fruit_raw.png" alt="raw" />&nbsp;&nbsp;&nbsp;
+  <img width="200" src="./result/HAT_HAT_fruit.png" alt="HAT_HAT" />&nbsp;&nbsp;&nbsp;
+  <img width="200" src="./result/HAT_ControlNet_fruit.png" alt="HAT_HAT_ControlNet" />
+</div>
+
+   
+  
